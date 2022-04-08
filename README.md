@@ -6,7 +6,7 @@
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
 
-I am an  Computer science and Engineering student currently in my second year. My technical stack involve C, C++, Javascript, HTML, CSS, Nodejs. I love to learn and build something new, productive, innovative and creative.
+I am an  Computer science and Engineering student currently in my second year. My technical stack involve C, C++, Javascript, HTML, CSS, Nodejs, Ruby on Rails. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning DSA and Full Stack Web development..
 - 👯 I’m looking forward to collaborate on open source projects.
 - ✔ Ask me about  Frontend Web development  and DSA...
