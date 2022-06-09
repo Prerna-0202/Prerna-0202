@@ -2,9 +2,9 @@
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Prerna-0202.repoName) [![GitHub followers](https://img.shields.io/github/followers/Prerna-0202.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
 
 
-<img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/AmcptKa1b08AAAAC/working-busy.gif" />
+<img align="right" height="200px" width="200px" alt="Unicorn" src="https://c.tenor.com/AmcptKa1b08AAAAC/working-busy.gif" />
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+***About me***
 
 I am an  Computer science and Engineering student currently in my second year. My technical stack involve C, C++, Javascript, HTML, CSS, Ruby on Rails. I love to learn and build something new, productive, innovative and creative.
 - 🌱 I’m currently learning DSA and Full Stack Web development..
