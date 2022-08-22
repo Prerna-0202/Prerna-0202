@@ -28,6 +28,3 @@ I am an  Computer science and Engineering student currently in my second year. M
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Prerna-0202" alt="GitHub Stats" /> <br/><br/>
   
 </div>
-
-![My github status](https://github-readme-stats.vercel.app/api?username=Prerna-0202&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerna-0202&langs_count=10&layout=compact)
