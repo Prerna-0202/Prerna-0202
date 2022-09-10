@@ -1,5 +1,5 @@
 # Hi there 👋, Prerna here. 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Prerna-0202.repoName) [![GitHub followers](https://img.shields.io/github/followers/Prerna-0202.svg?style=social&label=Follow)](https://github.com/Prerna-0202?tab=followers<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Prerna-0202.repoName) [![GitHub followers](https://img.shields.io/github/followers/Prerna-0202.svg?style=social&label=Follow)](https://github.com/Prerna-0202?tab=followers)<br/>
 
 
 <img align="right" height="200px" width="200px" alt="Unicorn" src="https://c.tenor.com/AmcptKa1b08AAAAC/working-busy.gif" />
